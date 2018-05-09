@@ -1,2 +1,2 @@
 # building-blog
-comment, tag, share mail, paganition
+this project based on chit fund website
